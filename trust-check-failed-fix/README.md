@@ -13,7 +13,7 @@ SecurityDataUpdater failed to fetch data from , : Trust check failed, The operat
 ```
 This guide will show you how to fix this.
 
-1. Download HxD https://mh-nexus.de/en/hxd
+1. Download HxD [here](https://mh-nexus.de/en/downloads.php?product=HxD20)
 2. Drag your RCCService.exe inside or open it from HxD.
 3. First of all, check if the RCC is patched with economy-simulator.org or economysimulator.com or just roblox.com. You can do this by doing Ctrl+F and search for roblox.com with all direction and press search all.
 4. After that, find which domain is used in the RCC patched and then do Ctrl+R. You must find that domain and put it in the Find box and in the Replace with: box you must put your domain. With ECS, domain length doesn't matter. if you're using another source, then it might.
@@ -29,3 +29,4 @@ Make sure the direction is all and do Replace all.
 NOTE: This may fix item rendering too, so if you cannot render items fast then this might help
 
 Guide by **z9nj** on Discord
+
