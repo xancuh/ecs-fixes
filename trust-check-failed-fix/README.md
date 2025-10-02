@@ -27,3 +27,5 @@ Make sure the direction is all and do Replace all.
 6. Then save it and run it and there shouldn't be any trust check fails!
 
 NOTE: This may fix item rendering too, so if you cannot render items fast then this might help
+
+Guide by **z9nj** on Discord
